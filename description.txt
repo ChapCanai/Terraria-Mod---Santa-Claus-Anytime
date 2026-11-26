@@ -1,0 +1,1 @@
+Allows Santa Claus to join anytime after defeating the Frost Legion, not just during Christmas. Also prevents the game from killing him instantly outside of Christmas.
